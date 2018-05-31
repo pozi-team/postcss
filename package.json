@@ -21,7 +21,7 @@
   "homepage": "https://postcss.org/",
   "repository": "postcss/postcss",
   "dependencies": {
-    "chalk": "^2.4.1",
+    "chalk": "^1.1.3",
     "source-map": "^0.6.1",
     "supports-color": "^5.4.0"
   },
